@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dashboard-tempHum/static/css/main.79dbf285.css",
-    "main.js": "/dashboard-tempHum/static/js/main.d2e6850e.js",
-    "index.html": "/dashboard-tempHum/index.html",
-    "main.79dbf285.css.map": "/dashboard-tempHum/static/css/main.79dbf285.css.map",
-    "main.d2e6850e.js.map": "/dashboard-tempHum/static/js/main.d2e6850e.js.map"
+    "main.css": "/dashboard-TH/static/css/main.79dbf285.css",
+    "main.js": "/dashboard-TH/static/js/main.d2e6850e.js",
+    "index.html": "/dashboard-TH/index.html",
+    "main.79dbf285.css.map": "/dashboard-TH/static/css/main.79dbf285.css.map",
+    "main.d2e6850e.js.map": "/dashboard-TH/static/js/main.d2e6850e.js.map"
   },
   "entrypoints": [
     "static/css/main.79dbf285.css",
